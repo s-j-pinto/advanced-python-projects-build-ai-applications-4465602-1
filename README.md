@@ -1,4 +1,4 @@
-# Advanced Python Projects: Build AI Applications
+# Advance through Python Projects: Build AI Applications
 This is the repository for the LinkedIn Learning course `Advanced Python Projects: Build AI Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
